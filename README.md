@@ -10,7 +10,8 @@
     </p>
 </span>
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/LuisRamosOfficial/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/LuisRamosOfficial/github-stats/master/generated/overview.svg#gh-light-mode-only)
 <h2 align='center'>Skilled in: </h2>
     
 <p align='center'>
