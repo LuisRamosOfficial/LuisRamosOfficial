@@ -6,10 +6,11 @@
 <h3 align='center'>Why Hello there, My name is Luis, a.k.a Archer and I'm 17 yo. currently I'm learning NextJS</h3>
 <span>
     <p align="center">  
-        ![](https://raw.githubusercontent.com/LuisRamosOfficial/github-stats/master/generated/overview.svg#gh-dark-mode-only)
         <img align="center" width="420px" src="https://github-readme-stats.vercel.app/api?username=LuisRamosOfficial&show_icons=true&theme=radical"/>
     </p>
 </span>
+
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 <h2 align='center'>Skilled in: </h2>
     
 <p align='center'>
