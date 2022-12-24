@@ -18,8 +18,5 @@
     <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
     <img src="https://icon-icons.com/downloadimage.php?id=132160&root=2148/PNG/48/&file=nextjs_icon_132160.png"/>
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/>
-    <img src="https://img.icons8.com/color/48/000000/redux.png"/>
     <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
 </p>
