@@ -1,4 +1,4 @@
-<h1 align='center' style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700;">Hi, I'm Luis!!</h1>
+<h1 align='center' style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700;"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Hi, I'm Luis!!</h1>
 <p align='center'>
     <a href="https://twitter.com/l_ramoss14"><img src="imagens/twitter.png" style="border-radius:5px;" width="130" alt="Twitter"></a>
     <a href="https://pastebin.com/Y0BbhPct"><img src="imagens/discord.png" style="border-radius:5px;" width="130" alt="Twitter"></a>
