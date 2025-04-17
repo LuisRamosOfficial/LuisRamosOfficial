@@ -17,6 +17,6 @@
     <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-    <img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png"/>
+    <img src="[https://icons8.com/icon/Pd2x9GWu9ovX/java"/>
     <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
 </p>
